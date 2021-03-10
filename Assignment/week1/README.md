@@ -43,5 +43,5 @@ videoWriter.release()
 
 cv2.destroyAllWindows()
 ```
-*RESULT*
-![Result](https://github.com/phucleminh/PPT/new/main/Assignment/week1/output.gif)
+RESULT
+* [Result](https://github.com/phucleminh/PPT/edit/main/Assignment/week1/output.gif)
