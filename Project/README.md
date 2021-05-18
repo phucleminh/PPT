@@ -10,3 +10,13 @@
   * 7: horse
   * 8: ship
   * 9: truck
+
+* CNN Block:
+  * RGB2Gray 
+  * Convolution Block:
+    * Convol Multi
+    * Max pooling
+    * Relu
+  * Fully-Connected Block:
+    * FC node
+  * Softmax Block:
