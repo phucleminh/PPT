@@ -12,11 +12,11 @@
   * 9: truck
 
 * CNN Block:
-  * RGB2Gray 
-  * Convolution Block:
-    * Convol Multi
-    * Max pooling
-    * Relu
+  * RGB2Gray - Done
+  * Convolution Block: - Done
+    * Convol Multi - Done
+    * Max pooling - Done
+    * Relu - Done
   * Fully-Connected Block:
     * FC node
   * Softmax Block:
