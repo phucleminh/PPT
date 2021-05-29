@@ -10,7 +10,10 @@
   * 7: horse
   * 8: ship
   * 9: truck
-
+* Because size of Cifar10 networks is really large so our team have to reduce number of output class from 10 to 2
+* Cifar10 CNN modify
+  * 0: airplane
+  * 1: automobile
 * CNN Block:
   * RGB2Gray - Done
   * Convolution Block: - Done
