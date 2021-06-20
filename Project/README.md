@@ -15,7 +15,6 @@
   * 0: airplane
   * 1: automobile
 
-![CNN](http:https://github.com/phucleminh/PPT/edit/main/Project//CNN.png)
 * CNN Block:
   * RGB2Gray - Done
   * Convolution Block: - Done
